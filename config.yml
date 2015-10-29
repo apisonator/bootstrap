@@ -1,0 +1,14 @@
+#
+# Apisonator.io Config
+#
+
+subdomain: example
+
+middleware:
+  - middleware01
+  - middleware02
+
+#addons:
+#  threescale:
+#    apikey: foo
+	
