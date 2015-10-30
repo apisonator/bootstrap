@@ -5,6 +5,7 @@
 subdomain: example
 
 middleware:
+  - cors
   - middleware01
   - middleware02
 
